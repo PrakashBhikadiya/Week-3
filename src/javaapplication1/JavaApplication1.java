@@ -17,6 +17,7 @@ public class JavaApplication1 {
         System.out.println("hello world");
         System.out.println("Prakash");
         System.out.println("hello");
+        System.out.println("hello ji");
         
         
         int a=30;
@@ -24,6 +25,7 @@ public class JavaApplication1 {
         int c=a+b;
         System.out.println("sum: " + c);
         int b=a+c;
+        
         // TODO code application logic here
     }
     
