@@ -17,6 +17,10 @@ public class JavaApplication1 {
         System.out.println("hello world");
         System.out.println("Prakash");
         System.out.println("hello");
+        
+        int a=10;
+        int b=20;
+        int c=a+b;
         // TODO code application logic here
     }
     
